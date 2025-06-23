@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "585468622559",
+    "project_id": "bengkelku-app-ca7b0",
+    "storage_bucket": "bengkelku-app-ca7b0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:585468622559:android:fff0ef098a6b10c89a9b6a",
+        "android_client_info": {
+          "package_name": "com.example.bengkelku"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_Dj6eBhRMvoUwRg8R76cSUvMq8uDynbQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
